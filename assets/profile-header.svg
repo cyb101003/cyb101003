@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Echo（陈宇博）GitHub profile</title>
+  <desc id="desc">Dark technical profile header with lime accents and no gradients.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1b222c" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1278" height="318" rx="23" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="318" rx="23" fill="url(#grid)" opacity="0.72"/>
+  <rect x="72" y="62" width="8" height="196" rx="4" fill="#b8ff5a"/>
+  <circle cx="1117" cy="78" r="7" fill="#b8ff5a"/>
+  <text x="1140" y="84" fill="#8b949e" font-size="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2">AVAILABLE TO BUILD</text>
+  <text x="112" y="148" fill="#f0f6fc" font-size="68" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">ECHO / 陈宇博</text>
+  <text x="116" y="203" fill="#b8ff5a" font-size="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="3">BUILDER · PRODUCT · AI · OPEN SOURCE</text>
+  <text x="116" y="248" fill="#8b949e" font-size="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Ideas are better when they can run.</text>
+  <text x="1078" y="264" fill="#484f58" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">cyb101003</text>
+</svg>

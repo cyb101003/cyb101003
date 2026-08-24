@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="184" viewBox="0 0 620 184" role="img" aria-label="rednote-tools repository card">
+  <rect x="1" y="1" width="618" height="182" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+    <circle cx="34" cy="39" r="6" fill="#b8ff5a"/>
+  <text x="52" y="46" fill="#b8ff5a" font-size="23" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">rednote-tools</text>
+  <text x="30" y="88" fill="#c9d1d9" font-size="16" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">A real-time hot topic aggregation &amp; analysis skill for AI hackathon</text>
+  <circle cx="35" cy="137" r="6" fill="#e34c26"/>
+  <text x="49" y="143" fill="#8b949e" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">HTML</text>
+  <text x="215" y="143" fill="#8b949e" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">★ 2</text>
+  <text x="306" y="143" fill="#8b949e" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">⑂ 0</text>
+  <text x="438" y="143" fill="#484f58" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">UPD 2026-06-08</text>
+</svg>
