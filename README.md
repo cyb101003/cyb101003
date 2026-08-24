@@ -24,7 +24,7 @@
         <li>Building AI products and web experiences</li>
         <li>Learning Web3, Solidity and open source</li>
         <li>Writing project notes at <a href="https://www.echobb.me">echobb.me</a></li>
-        <li>CTO / organizer at <a href="https://www.horizon-startup.com">Horizon Startup</a></li>
+        <li>CTO / organizer at <a href="https://horizon-s.cn">Horizon Startup</a></li>
       </ul>
     </td>
   </tr>
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/cyb101003/web3-learning-notes"><img width="49%" src="./assets/repo-web3-learning-notes.svg" alt="web3-learning-notes repository card" /></a>
-  <a href="https://www.horizon-startup.com"><img width="49%" src="./assets/project-horizon.svg" alt="Horizon Startup private project card" /></a>
+  <a href="https://horizon-s.cn"><img width="49%" src="./assets/project-horizon.svg" alt="Horizon Startup project card" /></a>
 </p>
 
 ## Stack
