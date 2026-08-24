@@ -12,7 +12,7 @@
   <rect x="72" y="62" width="8" height="196" rx="4" fill="#b8ff5a"/>
   <circle cx="1010" cy="78" r="7" fill="#b8ff5a"/>
   <text x="1032" y="84" fill="#8b949e" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">AVAILABLE TO BUILD</text>
-  <text x="112" y="148" fill="#f0f6fc" font-size="68" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">ECHO / 陈宇博</text>
+  <text x="112" y="148" fill="#f0f6fc" font-size="54" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0.5">ECHO / 陈宇博</text>
   <text x="116" y="203" fill="#b8ff5a" font-size="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="3">BUILDER · PRODUCT · AI · OPEN SOURCE</text>
   <text x="116" y="248" fill="#8b949e" font-size="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Ideas are better when they can run.</text>
   <text x="1078" y="264" fill="#484f58" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">cyb101003</text>
